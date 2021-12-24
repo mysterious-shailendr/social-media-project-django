@@ -1,8 +1,8 @@
 # Social Media project Django Framework
 Social Media project, created using python and django framework</n></n>
 
-A project where you can create, manage, join and delete groups and requests</n>
-You can create posts, comment on that post, verify it. </n>
+A project where you can create, manage, join and delete groups and requests</n></n>
+You can create posts, comment on that post, verify it.</n>
 Compatible with both, Python3.5 & Python3.6 versions</n></n>
 
 Do these installs before running the project,</n>
