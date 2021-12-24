@@ -1,1 +1,1 @@
-"# social-media-project-django" 
+# Social Media project Django
